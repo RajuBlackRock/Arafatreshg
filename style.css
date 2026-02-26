@@ -58,3 +58,282 @@ box-sizing: border-box;
     color: green;
     display: block;
 }
+
+
+@media screen and (max-width: 1000px) {
+    .hero{
+        height: 226px;
+    }
+}
+
+
+
+@media screen and (max-width: 700px) {
+    .hero{
+        height: 158px;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .hero{
+        height: 113px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .project-item{
+                width: 235px;
+    }
+}
+
+@media screen and (max-width: 735px) {
+    .project-item{
+                width: 230px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .project-item{
+                width: 225px;
+    }
+}
+
+@media screen and (max-width: 705px) {
+    .project-item{
+                width: 220px;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    .project-item{
+                width: 215px;
+    }
+}
+
+@media screen and (max-width: 675px) {
+    .project-item{
+                width: 210px;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .project-item{
+                width: 205px;
+    }
+}
+
+@media screen and (max-width: 645px) {
+    .project-item{
+                width: 200px;
+    }
+}
+
+
+@media screen and (max-width: 630px) {
+    .project-item{
+                width: 195px;
+    }
+}
+
+
+@media screen and (max-width: 650px) {
+    .project-item{
+                width: 190px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .project-item{
+                width: 185px;
+    }
+}
+
+@media screen and (max-width: 585px) {
+    .project-item{
+                width: 180px;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .project-item{
+                width: 175px;
+                height: 270px;
+    }
+}
+
+
+
+@media screen and (max-width: 555px) {
+    .project-item{
+                width: 170px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 540px) {
+    .project-item{
+                width: 165px;
+                height: 260px;
+    }
+}
+
+
+
+@media screen and (max-width: 525px) {
+    .project-item{
+                width: 160px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 510px) {
+    .project-item{
+                width: 155px;
+                height: 265px;
+    }
+}
+
+
+
+@media screen and (max-width: 495px) {
+    .project-item{
+                width: 150px;
+                height: 265px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .project-item{
+                width: 145px;
+                height: 265px;
+    }
+}
+
+@media screen and (max-width: 465px) {
+    .project-item{
+                width: 215px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+    .project-item{
+                width: 210px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 440px) {
+    .project-item{
+                width: 205px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 430px) {
+    .project-item{
+                width: 200px;
+                height: 265px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .project-item{
+                width: 195px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 410px) {
+    .project-item{
+                width: 190px;
+                height: 265px;
+    }
+}
+
+
+
+@media screen and (max-width: 400px) {
+    .project-item{
+                width: 185px;
+                height: 265px;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .project-item{
+                width: 180px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 380px) {
+    .project-item{
+                width: 175px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 370px) {
+    .project-item{
+                width: 170px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 360px) {
+    .project-item{
+                width: 165px;
+                height: 265px;
+    }
+}
+
+
+@media screen and (max-width: 350px) {
+    .project-item{
+                width: 160px;
+                height: 265px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .project-item{
+                width: 155px;
+                height: 265px;
+    }
+}
+
+
+
+@media screen and (max-width: 330px) {
+    .project-item{
+                width: 150px;
+                height: 265px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .project-item{
+                width: 145px;
+                height: 265px;
+    }
+}
+
+@media screen and (max-width: 310px) {
+    .project-item{
+                width: 140px;
+                height: 265px;
+    }
+}
+
+
