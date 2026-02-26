@@ -43,6 +43,7 @@ box-sizing: border-box;
    background-color: antiquewhite;
    height: 150px;
    color: green;
+   overflow: hidden;
   
 
 
@@ -58,6 +59,7 @@ box-sizing: border-box;
     color: green;
     display: block;
 }
+
 
 
 @media screen and (max-width: 1000px) {
@@ -336,4 +338,13 @@ box-sizing: border-box;
     }
 }
 
+@media screen and (max-width: 400px) {
+  .foter-item1{
+    flex-direction: column;
+    text-align: center;
+  }
 
+  .foter-item11{
+    width: 100%;
+  }
+}
