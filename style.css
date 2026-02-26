@@ -342,6 +342,7 @@ box-sizing: border-box;
   .foter-item1{
     flex-direction: column;
     text-align: center;
+    overflow: hidden;
   }
 
   .foter-item11{
